@@ -1,4 +1,4 @@
-class ReservationsController < ApplicationController
+class OrdersController < ApplicationController
   def new
   end
 
